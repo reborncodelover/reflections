@@ -21,6 +21,9 @@ Answer: Branches might be useful when you want to do some experimental workk wit
 	Also, it may be handy you want to emergency fixes and releases for the release in  production.
 
 How do the diagrams help you visualize the branch structure?
+Answer: The diagram helps understand which branches have which commits and also to identify the parent commit
+	for each of the child commits
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
