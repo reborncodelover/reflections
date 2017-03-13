@@ -34,3 +34,11 @@ Answer: After merging 'coins' branch to master branch, the master branch now has
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Answer: Automatic merging of git is extremely useful. It avoids having to go through each and every change
+	between the two branches. It automatically merges parts of the code that are conflict free. For 
+	example, if some parts of the original code is there in both the branches, it retains in the merged code.
+	If some code didn't exist at all but now appears in one branch, it includes it in merged code.
+	If some part of the original code exists in one but not in the other, then it needs manual conflict 
+	resolution because it is hard to tell if the deleted code in one version is needed or not.
+
+
