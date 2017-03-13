@@ -27,6 +27,10 @@ Answer: The diagram helps understand which branches have which commits and also 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Answer: After merging 'coins' branch to master branch, the master branch now has all the changes from coins 
+	branch as well as the changes made to master branch after coins branch was created. Now master branch
+	moves to the new merged commit. The graph will now show for the tip of the master branch, the parents
+	will point to both coins branch tip as well as the commit on master prior to merge.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
