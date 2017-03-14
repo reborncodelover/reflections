@@ -26,8 +26,8 @@ Answer: Enables you to access the changes made by others in remote that have not
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
-
-    Fill in your answer here
+Answer: Certainly Git and GitHub make the things a lot easier for the developers and reviewers.
+	Without them, folks have to be using clumsy mails and/or in person review
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
