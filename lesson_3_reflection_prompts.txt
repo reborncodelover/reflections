@@ -20,8 +20,9 @@ Answer: Forks made so that you can make changes without impacting the repository
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
+Answer: Enables you to access the changes made by others in remote that have not yet been included in your branch.
+	Basically, this helps to integrate the changes from local and remote branches during pull operation.
 
-    Fill in your answer here
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
