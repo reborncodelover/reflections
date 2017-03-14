@@ -11,8 +11,12 @@ Answer: We would always want to pull the changes from remote manually rather tha
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
-
-    Fill in your answer here
+Answer: Forks made so that you can make changes without impacting the repository where you forked it from. 
+	Forks are useful a) when you don't permission to make changes directly the repository or b) you want 
+	to keep making changes (like adding features etc) on your own.
+	Clone helps you to get a copy of the repository (i.e. a clone) from github to your own computer.
+	Branches are labels of specific commits. Once a branch is created you can keep making additional 
+	changes on the branches without impacting where you branched off (until you merge the branches again)
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
