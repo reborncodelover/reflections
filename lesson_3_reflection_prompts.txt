@@ -31,5 +31,6 @@ Answer: Certainly Git and GitHub make the things a lot easier for the developers
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
-    Fill in your answer here
+Answer: You would want to use a separate branch either when you want to make large set of changes
+	such as adding a new feture or when you are collaborating with other members of the project 
+	team sharing common codebase.
